@@ -57,7 +57,7 @@ Command | Description
 `reload` | Reloads given command.
 `restart` | Restarts bot.
 
-### Developer commands (Shef & Mekanic)
+### Owner commands
 Command | Description
 --- | ---
 `rcon` | Gives access to all commands in RCON.
