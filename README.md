@@ -16,6 +16,7 @@ Command | Description
 `suggest` | Sends a suggestion, with ID that helps management to track and respond.
 `uptime` | Time since last restart of the bot.
 `gameme` | Top players on different categories of servers.
+`gametracker` | Shows the current position of servers on gametracker.
 `ip` | Returns IP of given server.
 `ipall` | List of all IPs.
 `playerlist` | List of players with time connected (Maximum 6000 characters or 25 servers, but possible to send in a pastie.io).
