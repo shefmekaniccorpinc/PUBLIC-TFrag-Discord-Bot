@@ -89,4 +89,5 @@ Custom anticheat pings | Tag admins in only the pings you want them to ban for.
 Idea | Description
 --- | ---
 Let Owners add basic commands | A command which will add basic commands, ones that simply return text.
+Custom Ticket Tool | Custom Ticket Tool to replace the existing one.
 
