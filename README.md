@@ -84,3 +84,9 @@ Add custom commands | Possibility for custom commands with custom response.
 Auto delete messages in x channels | Works great for an Admin RCON or verify chat.
 Ping role on patch with patchbot | Pings a role when there is a new patch and servers need update.
 Custom anticheat pings | Tag admins in only the pings you want them to ban for.
+
+## Future Feature Ideas
+Idea | Description
+--- | ---
+Let Owners add basic commands | A command which will add basic commands, ones that simply return text.
+
