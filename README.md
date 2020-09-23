@@ -4,13 +4,13 @@
 This bot is meant for CSGO communities and will have the following features.
 
 ## Table of Contents
-[User Commands](#user-commands)
-[Fun Commands](#fun-commands)
-[Admin Commands](#admin-commands)
-[Developer Commands](#developer-commands-shef--mekanic)
-[Owner Commands](#owner-commands)
-[Features](#features)
-[Future Feature Ideas](#future-feature-ideas)
+[User Commands](#user-commands)  
+[Fun Commands](#fun-commands)  
+[Admin Commands](#admin-commands)  
+[Developer Commands](#developer-commands-shef--mekanic)  
+[Owner Commands](#owner-commands)  
+[Features](#features)  
+[Future Feature Ideas](#future-feature-ideas)  
 
 ## Commands
 
