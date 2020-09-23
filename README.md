@@ -3,6 +3,9 @@
 # TFrag Discord Bot
 This bot is meant for CSGO communities and will have the following features.
 
+## Table of Contents
+[User commands](#user-commands)
+
 ## Commands
 
 ### User commands
