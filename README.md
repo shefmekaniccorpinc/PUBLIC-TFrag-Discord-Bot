@@ -1,7 +1,7 @@
 ![GitHub Logo](https://media.discordapp.net/attachments/597900359905705994/755166986824319187/sadgeBusiness.png)
 
 # TFrag Discord Bot
-This bot is meant for CSGO communities and will have the following features.
+This bot is meant for CS:GO communities and will have the following features.
 
 ## Table of Contents
 [User Commands](#user-commands)  
