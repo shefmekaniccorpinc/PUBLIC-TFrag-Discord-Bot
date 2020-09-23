@@ -90,4 +90,5 @@ Idea | Description
 --- | ---
 Let Owners add basic commands | A command which will add basic commands, ones that simply return text.
 Custom Ticket Tool | Custom Ticket Tool to replace the existing one.
+gameME & LevelRanks Tracker | A command which will link to the gameME & LevelRanks tracker from given SteamID
 
