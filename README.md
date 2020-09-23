@@ -4,11 +4,17 @@
 This bot is meant for CSGO communities and will have the following features.
 
 ## Table of Contents
-[User commands](#user-commands)
+[User Commands](#user-commands)
+[Fun Commands](#fun-commands)
+[Admin Commands](#admin-commands)
+[Developer Commands](#developer-commands)
+[Owner Commands](#owner-commands)
+[Features](#features)
+[Future Feature Ideas](#future-feature-ideas)
 
 ## Commands
 
-### User commands
+### User Commands
 Command | Description
 --- | ---
 `help` | List and description of all commands.
@@ -30,7 +36,7 @@ Command | Description
 `version` | Returns version of CS:GO servers, and says if they are outdated.
 
 
-### Fun commands
+### Fun Commands
 Command | Description
 --- | ---
 `8ball` | Classic 8ball.
@@ -40,7 +46,7 @@ Command | Description
 `translate` | Translates messages.
 `meme` | Sends a meme.
 
-### Admin commands
+### Admin Commands
 Command | Description
 --- | ---
 `ban` | Ban user from Discord.
@@ -55,13 +61,13 @@ Command | Description
 `csrename` | Custom RCON command for rename on server.
 `csstatus` | Custom RCON command for status on server. (This will print IP Addresses)
 
-### Developer commands (Shef & Mekanic)
+### Developer Commands (Shef & Mekanic)
 Command | Description
 --- | ---
 `reload` | Reloads given command.
 `restart` | Restarts bot.
 
-### Owner commands
+### Owner Commands
 Command | Description
 --- | ---
 `rcon` | Gives access to all commands in RCON.
