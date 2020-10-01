@@ -78,11 +78,9 @@ Command | Description
 Feature | Description
 --- | ---
 Server list | An updating server list.
-Top player count | Tracks the highest player count online ever.
 Welcome messages | Gives an automatic message for new members.
 Logs | Custom logging.
 React for role | Gives role on reactions.
-Role with timed period  | Give roles for x time. (Mute, VIP, MOD, etc.)
 Custom status on bot | Set a status on the bot.
 Voice channel count | Set counters for members, online and steam group members.
 Custom auto ban | Works with P!mp's anticheat, bans for specific flags.
