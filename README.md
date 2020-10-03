@@ -51,7 +51,7 @@ Command | Description
 --- | ---
 `ban` | Ban user from Discord.
 `kick` | Kick user from Discord.
-`mute` | Mute user on Discord.
+`mute` | Mute user on Discord for x time.
 `clear` | Clear x/100 messages in chat, and sends a pastie.io link with deleted messages.
 `csban` | Custom RCON command for ban on server.
 `cskick` | Custom RCON command for kick on server.
