@@ -34,6 +34,7 @@ Command | Description
 `serveraliases` | Returns all aliases for the servers.
 `version` | Returns version of CS:GO servers, and says if they are outdated.
 `skin` | Returns a random or given skin, depending on arguments.
+`aktivitet` | Returns links to given players activity.
 
 
 ### Fun Commands
